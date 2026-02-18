@@ -77,10 +77,10 @@ A linguagem utilizada pelo Game Maker é o GML.
 ## 🔗 RECURSOS PARA APROFUNDAMENTO
 
 ### Documentação e Conceitos
-Unity: https://docs.unity3d.com/Manual/index.html
-Unreal: https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-7-documentation
-Godot: https://docs.godotengine.org/en/stable/
-Game Maker: https://manual.gamemaker.io/monthly/en/#t=Content.htm
+- Unity: https://docs.unity3d.com/Manual/index.html
+- Unreal: https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-7-documentation
+- Godot: https://docs.godotengine.org/en/stable/
+- Game Maker: https://manual.gamemaker.io/monthly/en/#t=Content.htm
 
 ### Roadmap Sugerido
 - Game Developer: https://roadmap.sh/game-developer
